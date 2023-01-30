@@ -11,3 +11,9 @@ This project involves acquiring images of packaging for food products, for examp
 Our solution was to design an architecture composed of two modules: a module for the recognition of different areas (product-recognition), and a module for converting images into text (OCR or Optical Character recognition), we follow up the link between these two modules to obtain a functional pipeline.
 
 ![alt text](https://github.com/rasta-nitzsche/Food-Packaging-Recognition/blob/main/architecture.PNG)
+
+## Model
+
+## Dataset and preprocessing
+
+## Results
